@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Terraform cache
+.terraform/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
